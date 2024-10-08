@@ -1,0 +1,7 @@
+
+flask
+google-cloud-vision
+google-cloud-language
+firebase-admin
+asyncio
+gunicorn
